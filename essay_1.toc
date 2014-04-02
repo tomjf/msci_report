@@ -1,28 +1,35 @@
-\contentsline {section}{\numberline {1}Acknowledgments}{2}
-\contentsline {section}{\numberline {2}Abstract}{3}
-\contentsline {section}{\numberline {3}Introduction}{4}
-\contentsline {subsection}{\numberline {3.1}Cosmological Principle}{4}
-\contentsline {subsection}{\numberline {3.2}Hubble Law}{4}
-\contentsline {subsection}{\numberline {3.3}Cosmic Microwave Background (CMB)}{4}
-\contentsline {subsection}{\numberline {3.4}Cosmological Problems}{4}
-\contentsline {subsection}{\numberline {3.5}Inflation and why it is needed}{4}
-\contentsline {subsection}{\numberline {3.6}Aims of the Project}{4}
-\contentsline {section}{\numberline {4}Theory}{4}
-\contentsline {subsection}{\numberline {4.1}Friedmann Equations}{4}
-\contentsline {subsection}{\numberline {4.2}Inflation}{4}
-\contentsline {subsection}{\numberline {4.3}Mukhanov Sasaki Equation}{4}
-\contentsline {subsection}{\numberline {4.4}Power Spectrum}{4}
-\contentsline {subsection}{\numberline {4.5}Spectral Index}{4}
-\contentsline {section}{\numberline {5}Matching Conditions}{4}
-\contentsline {subsection}{\numberline {5.1}Outline}{4}
-\contentsline {subsection}{\numberline {5.2}Constant w}{5}
-\contentsline {subsection}{\numberline {5.3}Jacobi Elliptic Function Solutions}{5}
-\contentsline {section}{\numberline {6}Hamiltonian Jacobi}{5}
-\contentsline {subsection}{\numberline {6.1}Outline}{5}
-\contentsline {subsection}{\numberline {6.2}Intermediate Inflation}{6}
-\contentsline {subsection}{\numberline {6.3}$n_{s}=1$}{6}
-\contentsline {subsection}{\numberline {6.4}$n_{s} \not =1$}{6}
-\contentsline {subsection}{\numberline {6.5}Proof of Slow roll}{6}
-\contentsline {subsection}{\numberline {6.6}Equation of State}{6}
-\contentsline {subsection}{\numberline {6.7}Potential}{6}
-\contentsline {section}{\numberline {7}Conclusion}{6}
+\contentsline {section}{\numberline {1}Acknowledgments}{3}
+\contentsline {section}{\numberline {2}Abstract}{4}
+\contentsline {section}{\numberline {3}Introduction}{5}
+\contentsline {subsection}{\numberline {3.1}Cosmological Principle}{5}
+\contentsline {subsection}{\numberline {3.2}Hubble Law}{5}
+\contentsline {subsection}{\numberline {3.3}Cosmic Microwave Background (CMB)}{5}
+\contentsline {subsection}{\numberline {3.4}Cosmological Problems}{5}
+\contentsline {subsection}{\numberline {3.5}Inflation and why it is needed}{5}
+\contentsline {subsection}{\numberline {3.6}Aims of the Project}{5}
+\contentsline {section}{\numberline {4}Theory}{5}
+\contentsline {subsection}{\numberline {4.1}Friedmann Equations}{5}
+\contentsline {subsection}{\numberline {4.2}Geometry}{5}
+\contentsline {subsection}{\numberline {4.3}Cosmological Constant}{5}
+\contentsline {subsection}{\numberline {4.4}Friedmann Models}{5}
+\contentsline {subsection}{\numberline {4.5}Conformal Time}{5}
+\contentsline {subsection}{\numberline {4.6}Mukhanov Sasaki Equation}{5}
+\contentsline {subsection}{\numberline {4.7}Power Spectrum}{5}
+\contentsline {subsection}{\numberline {4.8}Spectral Index}{5}
+\contentsline {subsection}{\numberline {4.9}Spectral Index}{6}
+\contentsline {section}{\numberline {5}Early Work}{6}
+\contentsline {subsection}{\numberline {5.1}Numerical Work}{6}
+\contentsline {section}{\numberline {6}Matching Conditions}{6}
+\contentsline {subsection}{\numberline {6.1}Outline}{6}
+\contentsline {subsection}{\numberline {6.2}Constant w}{6}
+\contentsline {subsection}{\numberline {6.3}Jacobi Elliptic Function Solutions}{6}
+\contentsline {section}{\numberline {7}Hamiltonian Jacobi}{7}
+\contentsline {subsection}{\numberline {7.1}Outline}{7}
+\contentsline {section}{\numberline {8}Generalised Equation of State}{7}
+\contentsline {subsection}{\numberline {8.1}$n_{s}=1$ (Intermediate Inflation)}{7}
+\contentsline {subsection}{\numberline {8.2}$n_{s} \not =1$}{8}
+\contentsline {subsection}{\numberline {8.3}Proof of Slow roll}{8}
+\contentsline {subsection}{\numberline {8.4}Equation of State}{8}
+\contentsline {subsection}{\numberline {8.5}Potential}{8}
+\contentsline {subsection}{\numberline {8.6}Number of e-foldings}{8}
+\contentsline {section}{\numberline {9}Conclusion}{8}
