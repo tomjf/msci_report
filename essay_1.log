@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.6)  30 MAR 2014 19:51
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.6)  1 APR 2014 19:17
 entering extended mode
 **essay_1.tex
-("C:\Users\Tom\Documents\MSci Report\essay_1.tex"
+(C:\Users\Tom\Documents\GitHub\msci_report\essay_1.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -173,7 +173,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Users\Tom\Documents\MSci Report\essay_1.aux")
+(C:\Users\Tom\Documents\GitHub\msci_report\essay_1.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
@@ -224,26 +224,71 @@ LaTeX Font Info:    ... okay on input line 26.
 [1
 
 {C:/Users/Tom/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\Tom\Documents\MSci Report\essay_1.toc")
+(C:\Users\Tom\Documents\GitHub\msci_report\essay_1.toc)
 \tf@toc=\write3
- [1] [2]
-("C:\Users\Tom\Documents\MSci Report\essay_1.aux") ) 
+ [1] [2] [3]
+(C:\Users\Tom\Documents\GitHub\msci_report\essay_1.bbl
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 \newblock ID: 44IMP_
+                        ALMA_DS2141267570001591.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.8 
+    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[4]) [5] (C:\Users\Tom\Documents\GitHub\msci_report\essay_1.aux) ) 
 Here is how much of TeX's memory you used:
- 2133 strings out of 494045
- 27825 string characters out of 3145975
- 90802 words of memory out of 3000000
- 5414 multiletter control sequences out of 15000+200000
- 12274 words of font info for 43 fonts, out of 3000000 for 9000
+ 2155 strings out of 494045
+ 28250 string characters out of 3145975
+ 92805 words of memory out of 3000000
+ 5429 multiletter control sequences out of 15000+200000
+ 16448 words of font info for 57 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,4n,20p,219b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on essay_1.pdf (3 pages, 53240 bytes).
+ 27i,4n,20p,219b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on essay_1.pdf (6 pages, 120705 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

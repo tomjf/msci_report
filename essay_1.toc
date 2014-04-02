@@ -1,1 +1,23 @@
-\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {1}Acknowledgments}{2}
+\contentsline {section}{\numberline {2}Abstract}{3}
+\contentsline {section}{\numberline {3}Introduction}{4}
+\contentsline {subsection}{\numberline {3.1}Cosmic Microwave Background (CMB)}{4}
+\contentsline {subsection}{\numberline {3.2}Cosmological Problems}{4}
+\contentsline {section}{\numberline {4}Theory}{4}
+\contentsline {subsection}{\numberline {4.1}Friedmann Equations}{4}
+\contentsline {subsection}{\numberline {4.2}Inflation}{4}
+\contentsline {subsection}{\numberline {4.3}Mukhanov Sasaki Equation}{4}
+\contentsline {subsection}{\numberline {4.4}Power Spectrum}{4}
+\contentsline {subsection}{\numberline {4.5}Spectral Index}{4}
+\contentsline {section}{\numberline {5}Matching Conditions}{4}
+\contentsline {subsection}{\numberline {5.1}Jacobi Elliptic}{4}
+\contentsline {subsection}{\numberline {5.2}Constant w}{4}
+\contentsline {section}{\numberline {6}Hamiltonian Jacobi}{4}
+\contentsline {subsection}{\numberline {6.1}Outline}{4}
+\contentsline {subsection}{\numberline {6.2}Intermediate Inflation}{5}
+\contentsline {subsection}{\numberline {6.3}$n_{s}=1$}{5}
+\contentsline {subsection}{\numberline {6.4}$n_{s} \not =1$}{5}
+\contentsline {subsection}{\numberline {6.5}Proof of Slow roll}{5}
+\contentsline {subsection}{\numberline {6.6}Equation of State}{5}
+\contentsline {subsection}{\numberline {6.7}Potential}{5}
+\contentsline {section}{\numberline {7}Conclusion}{5}
