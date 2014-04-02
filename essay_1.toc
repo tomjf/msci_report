@@ -1,8 +1,12 @@
 \contentsline {section}{\numberline {1}Acknowledgments}{2}
 \contentsline {section}{\numberline {2}Abstract}{3}
 \contentsline {section}{\numberline {3}Introduction}{4}
-\contentsline {subsection}{\numberline {3.1}Cosmic Microwave Background (CMB)}{4}
-\contentsline {subsection}{\numberline {3.2}Cosmological Problems}{4}
+\contentsline {subsection}{\numberline {3.1}Cosmological Principle}{4}
+\contentsline {subsection}{\numberline {3.2}Hubble Law}{4}
+\contentsline {subsection}{\numberline {3.3}Cosmic Microwave Background (CMB)}{4}
+\contentsline {subsection}{\numberline {3.4}Cosmological Problems}{4}
+\contentsline {subsection}{\numberline {3.5}Inflation and why it is needed}{4}
+\contentsline {subsection}{\numberline {3.6}Aims of the Project}{4}
 \contentsline {section}{\numberline {4}Theory}{4}
 \contentsline {subsection}{\numberline {4.1}Friedmann Equations}{4}
 \contentsline {subsection}{\numberline {4.2}Inflation}{4}
@@ -10,14 +14,15 @@
 \contentsline {subsection}{\numberline {4.4}Power Spectrum}{4}
 \contentsline {subsection}{\numberline {4.5}Spectral Index}{4}
 \contentsline {section}{\numberline {5}Matching Conditions}{4}
-\contentsline {subsection}{\numberline {5.1}Jacobi Elliptic}{4}
-\contentsline {subsection}{\numberline {5.2}Constant w}{4}
-\contentsline {section}{\numberline {6}Hamiltonian Jacobi}{4}
-\contentsline {subsection}{\numberline {6.1}Outline}{4}
-\contentsline {subsection}{\numberline {6.2}Intermediate Inflation}{5}
-\contentsline {subsection}{\numberline {6.3}$n_{s}=1$}{5}
-\contentsline {subsection}{\numberline {6.4}$n_{s} \not =1$}{5}
-\contentsline {subsection}{\numberline {6.5}Proof of Slow roll}{5}
-\contentsline {subsection}{\numberline {6.6}Equation of State}{5}
-\contentsline {subsection}{\numberline {6.7}Potential}{5}
-\contentsline {section}{\numberline {7}Conclusion}{5}
+\contentsline {subsection}{\numberline {5.1}Outline}{4}
+\contentsline {subsection}{\numberline {5.2}Constant w}{5}
+\contentsline {subsection}{\numberline {5.3}Jacobi Elliptic Function Solutions}{5}
+\contentsline {section}{\numberline {6}Hamiltonian Jacobi}{5}
+\contentsline {subsection}{\numberline {6.1}Outline}{5}
+\contentsline {subsection}{\numberline {6.2}Intermediate Inflation}{6}
+\contentsline {subsection}{\numberline {6.3}$n_{s}=1$}{6}
+\contentsline {subsection}{\numberline {6.4}$n_{s} \not =1$}{6}
+\contentsline {subsection}{\numberline {6.5}Proof of Slow roll}{6}
+\contentsline {subsection}{\numberline {6.6}Equation of State}{6}
+\contentsline {subsection}{\numberline {6.7}Potential}{6}
+\contentsline {section}{\numberline {7}Conclusion}{6}

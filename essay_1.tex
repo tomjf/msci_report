@@ -1,4 +1,3 @@
-
 \documentclass[12pt]{article} % Default font size is 12pt, it can be changed here
 
 \usepackage{geometry} % Required to change the page size to A4
@@ -12,6 +11,7 @@
 \usepackage{bm}
 
 \usepackage{amsmath}
+
 
 \linespread{1.2} % Line spacing
 
@@ -99,15 +99,30 @@ The aim of this project is to investigate inflationary models and discover new m
 
 \section{Introduction} % Major section
 
+\subsection{Cosmological Principle}
+
+\subsection{Hubble Law}
+
 \subsection{Cosmic Microwave Background (CMB)}
 
 \subsection{Cosmological Problems}
 
+\subsection{Inflation and why it is needed}
+
+\subsection{Aims of the Project}
+
+%----------------------------------------------------------------------
 \section{Theory}
 
 \subsection{Friedmann Equations}
 
-\subsection{Inflation}
+\subsection{Geometry}
+
+\subsection{Cosmological Constant}
+
+\subsection{Friedmann Models}
+
+\subsection{Conformal Time}
 
 \subsection{Mukhanov Sasaki Equation}
 
@@ -115,11 +130,71 @@ The aim of this project is to investigate inflationary models and discover new m
 
 \subsection{Spectral Index}
 
+\begin{equation}\label{powerspec}
+P(k)=A \left(\frac{k}{k_{0}}\right)^{n_{s}-1}
+\end{equation}
+
+\begin{equation}\label{logpowerspec}
+n_{s}-1 = \frac{\log (P(k))}{\log(k)}
+\end{equation}
+
+\subsection{Spectral Index}
+%--------------------------------------------------------------------
+
+\section{Early Work}
+
+\subsection{Numerical Work}
+%---------------------------------------------------------------------
+
 \section{Matching Conditions}
 
-\subsection{Jacobi Elliptic}
+\subsection{Outline}
+
+The matching condition is a simple analytical method that can be used to approximate the spectral index of an inflationary model to a good degree of accuracy so long as $a(\eta)$ is given. This can be achieved by assuming the growing modes that freeze out and exit the horizon are proportional to the scale factor and some function of $k$. The functional dependence on $k$ can then be calculated by matching the modes at horizon crossing. At horizon crossing the following equation is valid.
+
+\begin{equation}\label{matchingcondition}
+\left[ k^{2} - \frac{a''}{a} \right] = 0
+\end{equation}
+
+\begin{equation}\label{matchingequation}
+\frac{1}{\sqrt{k}} \approx a(\eta)F(k)
+\end{equation}
+
+Furthermore
+
+\begin{equation}\label{powerfrommatchingcondition}
+P(k)= k^{3}\zeta^{2} = k^{3}\frac{v^{2}}{a^{2}} = k^{3}F(k)^{2}
+\end{equation}
 
 \subsection{Constant w}
+
+
+
+\begin{equation}\label{generalisedscalefactorinw}
+a\approx\eta^{\frac{2}{3w+1}}
+\end{equation}
+
+\begin{equation}\label{nsintermsofw}
+n_{s}(w)=4\pm\frac{3(1-w)}{3w+1}
+\end{equation}
+
+\subsection{Jacobi Elliptic Function Solutions}
+
+The matching condition method can be used to derive an expression for $a(\eta)$ that gives scale invariance. Equation \ref{matchingequation} can be expressed purely in terms of the scale factor and its derivatives with respect to conformal time using equation \ref{matchingcondition} to give the following.
+
+\begin{equation}\label{a''acubedfirststep}
+a(\eta) \approx \frac{1}{F\left(\sqrt{\frac{a''}{a}}\right)\left(\frac{a''}{a}\right)^{\frac{1}{4}}}
+\end{equation}
+
+From equations \ref{logpowerspec} and \ref{powerfrommatchingcondition} it can be seen that $F(k)\propto k^{-\frac{3}{2}}$ is required for exact scale invariance. If this condition is imposed in equation \ref{a''acubedfirststep} a second order differential equation can be found for the the scale factor $a(\eta)$.
+
+\begin{equation}\label{aproptoacubed}
+a''(\eta) \propto a(\eta)^{3}
+\end{equation}
+
+It is immediately clear to see that $ a \propto \frac{1}{| \eta |} $ is a solution.
+
+%---------------------------------------------------------------------
 
 \section{Hamiltonian Jacobi}
 
@@ -135,17 +210,35 @@ The evolution of scalar fields is described by the Klein \cite{goldstein} Gordon
 H^{2}=\frac{8\pi}{3 m_{pl}^{2}}[\frac{1}{2}\dot{\phi}^{2}+V(\phi)]
 \end{equation}
 
-\subsection{Intermediate Inflation}
+\section{Generalised Equation of State}
 
-\subsection{$n_{s}=1$}
+\subsection{$n_{s}=1$ (Intermediate Inflation)}
+
+\begin{equation}
+H''H - 2(H')^{2}=0
+\end{equation}
+
+\begin{equation}
+H(\phi) = \frac{\alpha}{\beta + \phi} \approx \frac{1}{\phi}
+\end{equation}
 
 \subsection{$n_{s} \neq 1$}
+
+\begin{equation}
+\left( \frac{H''}{2}\right) - \left( \frac{H'^{2}}{H}\right) + \left( n_{s} - 1\right)\pi H = 0
+\end{equation}
 
 \subsection{Proof of Slow roll}
 
 \subsection{Equation of State}
 
+\begin{equation}
+\rho_{\phi} = \left( \frac{8\pi \left(n_{s}-1\right)}{9 A^{2}}\right)p_{\phi}^{2} - \left(\frac{n_{s}+2}{3}\right)p_{\phi}
+\end{equation}
+
 \subsection{Potential}
+
+\subsection{Number of e-foldings}
 
 \section{Conclusion}
 
