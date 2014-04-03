@@ -4,9 +4,10 @@
 \contentsline {subsection}{\numberline {3.1}Cosmological Principle}{5}
 \contentsline {subsection}{\numberline {3.2}Hubble Law}{5}
 \contentsline {subsection}{\numberline {3.3}Cosmic Microwave Background (CMB)}{5}
-\contentsline {subsection}{\numberline {3.4}Cosmological Problems}{5}
-\contentsline {subsection}{\numberline {3.5}Inflation and why it is needed}{5}
-\contentsline {subsection}{\numberline {3.6}Aims of the Project}{5}
+\contentsline {subsection}{\numberline {3.4}Big Bang Theory}{5}
+\contentsline {subsection}{\numberline {3.5}Cosmological Problems}{5}
+\contentsline {subsection}{\numberline {3.6}Inflation and why it is needed}{5}
+\contentsline {subsection}{\numberline {3.7}Aims of the Project}{5}
 \contentsline {section}{\numberline {4}Theory}{5}
 \contentsline {subsection}{\numberline {4.1}Friedmann Equations}{5}
 \contentsline {subsection}{\numberline {4.2}Geometry}{5}
@@ -25,11 +26,11 @@
 \contentsline {subsection}{\numberline {6.3}Jacobi Elliptic Function Solutions}{6}
 \contentsline {section}{\numberline {7}Hamiltonian Jacobi}{7}
 \contentsline {subsection}{\numberline {7.1}Outline}{7}
-\contentsline {section}{\numberline {8}Generalised Equation of State}{7}
-\contentsline {subsection}{\numberline {8.1}$n_{s}=1$ (Intermediate Inflation)}{7}
-\contentsline {subsection}{\numberline {8.2}$n_{s} \not =1$}{8}
-\contentsline {subsection}{\numberline {8.3}Proof of Slow roll}{8}
-\contentsline {subsection}{\numberline {8.4}Equation of State}{8}
-\contentsline {subsection}{\numberline {8.5}Potential}{8}
-\contentsline {subsection}{\numberline {8.6}Number of e-foldings}{8}
-\contentsline {section}{\numberline {9}Conclusion}{8}
+\contentsline {subsection}{\numberline {7.2}Generalised Equation of State}{7}
+\contentsline {subsection}{\numberline {7.3}$n_{s}=1$ (Intermediate Inflation)}{7}
+\contentsline {subsection}{\numberline {7.4}$n_{s} \not =1$}{8}
+\contentsline {subsection}{\numberline {7.5}Proof of Slow roll}{8}
+\contentsline {subsection}{\numberline {7.6}Equation of State}{8}
+\contentsline {subsection}{\numberline {7.7}Potential}{8}
+\contentsline {subsection}{\numberline {7.8}Number of e-foldings}{8}
+\contentsline {section}{\numberline {8}Conclusion}{8}
